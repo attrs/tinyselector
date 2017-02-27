@@ -1,0 +1,22 @@
+{
+  "name": "tinyselector",
+  "version": "0.1.0",
+  "description": "tiny dom selector",
+  "main": "lib/tinyselector.js",
+  "scripts": {
+    "prepublish": "webpack"
+  },
+  "repository": "attrs/tinyselector",
+  "author": "joje <joje.attrs@gmail.com>",
+  "homepage": "https://github.com/attrs/tinyselector",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "lib",
+    "LICENSE",
+    "README.md"
+  ],
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}
